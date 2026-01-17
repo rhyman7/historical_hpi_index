@@ -29,5 +29,10 @@ outlier in this dataset having the highest HPI in the Unites States amongst the 
 1. HPI Master CSV from https://www.fhfa.gov/data/hpi/datasets?tab=master-hpi-data(historical (provided in 'data/')
 2. Population Est Totals from https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-metro-and-micro-statistical-areas.html (provided in 'data/')
 
+## Next Steps
+1. Locate a dataset which coontains historical Median Household Income ideally going back to 1991 for the metropolitan areas contained in the HPI dataset.
+2. Compare the rise over time in Median Household Income to the rise over time in HPI.
+3. Is Median Houshold Income keeping up the increase in HPI?
+
  ## Author
  Ryan Hyman
