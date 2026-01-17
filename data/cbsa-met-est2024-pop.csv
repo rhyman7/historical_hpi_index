@@ -1,0 +1,425 @@
+Geographic Area,2020,2021,2022,2023,2024
+".Abilene, TX Metro Area","176,926","177,918","180,072","182,838",184278
+".Akron, OH Metro Area","701,689","696,602","698,506","700,094",702209
+".Albany, GA Metro Area","148,253","144,976","145,873","145,538",145451
+".Albany, OR Metro Area","128,967","130,062","130,516","131,509",132474
+".Albany-Schenectady-Troy, NY Metro Area","899,778","905,557","904,216","907,223",913485
+".Albuquerque, NM Metro Area","917,747","919,682","920,200","923,477",926303
+".Alexandria, LA Metro Area","151,811","150,910","148,999","148,382",148008
+".Allentown-Bethlehem-Easton, PA-NJ Metro Area","861,575","870,124","871,414","878,487",886418
+".Altoona, PA Metro Area","122,664","122,160","120,796","120,494",120269
+".Amarillo, TX Metro Area","269,051","269,858","270,751","272,981",274650
+".Ames, IA Metro Area","125,353","126,453","126,565","128,068",129227
+".Amherst Town-Northampton, MA Metro Area","148,589","165,069","165,397","165,686",165399
+".Anchorage, AK Metro Area","398,427","399,924","401,025","403,228",407213
+".Ann Arbor, MI Metro Area","371,849","365,041","367,947","370,398",373875
+".Anniston-Oxford, AL Metro Area","116,242","115,633","115,744","116,403",116427
+".Appleton, WI Metro Area","243,451","243,961","245,306","247,131",248992
+".Asheville, NC Metro Area","407,570","410,887","414,360","418,404",422333
+".Athens-Clarke County, GA Metro Area","215,715","218,338","220,609","222,637",223689
+".Atlanta-Sandy Springs-Roswell, GA Metro Area","6,121,086","6,160,570","6,253,070","6,336,015",6411149
+"..Atlanta-Sandy Springs-Roswell, GA Metro Division","4,777,597","4,803,493","4,874,423","4,937,012",4991637
+"..Marietta, GA Metro Division","1,343,489","1,357,077","1,378,647","1,399,003",1419512
+".Atlantic City-Hammonton, NJ Metro Area","369,247","370,711","371,526","371,580",372989
+".Auburn-Opelika, AL Metro Area","194,328","196,569","199,605","202,618",206006
+".Augusta-Richmond County, GA-SC Metro Area","612,228","616,307","624,645","630,968",636760
+".Austin-Round Rock-San Marcos, TX Metro Area","2,300,249","2,359,088","2,430,375","2,492,618",2550637
+".Bakersfield-Delano, CA Metro Area","906,124","912,782","917,293","916,646",922529
+".Baltimore-Columbia-Towson, MD Metro Area","2,846,948","2,847,520","2,846,006","2,847,687",2859024
+".Bangor, ME Metro Area","152,179","153,383","154,817","156,329",156840
+".Barnstable Town, MA Metro Area","228,060","232,379","232,571","232,759",232570
+".Baton Rouge, LA Metro Area","870,319","872,794","873,586","877,217",882652
+".Battle Creek, MI Metro Area","134,219","133,905","133,475","133,505",133785
+".Bay City, MI Metro Area","103,747","103,116","102,754","102,774",102651
+".Beaumont-Port Arthur, TX Metro Area","397,287","395,602","395,039","397,476",398733
+".Beckley, WV Metro Area","114,852","113,859","112,274","111,605",110979
+".Bellingham, WA Metro Area","227,451","226,725","230,701","232,686",234954
+".Bend, OR Metro Area","248,978","256,185","258,203","261,297",264407
+".Billings, MT Metro Area","184,726","187,374","190,252","191,390",192531
+".Binghamton, NY Metro Area","246,526","246,686","245,048","243,976",243971
+".Birmingham, AL Metro Area","1,181,816","1,181,164","1,181,300","1,186,201",1192583
+".Bismarck, ND Metro Area","133,779","134,843","136,035","137,404",139183
+".Blacksburg-Christiansburg-Radford, VA Metro Area","181,758","181,230","181,397","181,889",182041
+".Bloomington, IL Metro Area","171,236","171,411","171,571","171,493",172069
+".Bloomington, IN Metro Area","161,969","162,762","162,733","162,827",162553
+".Boise City, ID Metro Area","770,272","797,158","814,129","828,138",845877
+".Boston-Cambridge-Newton, MA-NH Metro Area","4,930,540","4,911,669","4,931,775","4,967,266",5025517
+"..Boston, MA Metro Division","2,049,443","2,033,912","2,040,182","2,051,864",2075988
+"..Cambridge-Newton-Framingham, MA Metro Division","2,435,359","2,427,868","2,439,844","2,461,129",2492894
+"..Rockingham County-Strafford County, NH Metro Division","445,738","449,889","451,749","454,273",456635
+".Boulder, CO Metro Area","330,953","327,133","328,039","328,419",330262
+".Bowling Green, KY Metro Area","180,069","182,549","186,420","190,604",195159
+".Bozeman, MT Metro Area","119,607","123,119","124,733","125,929",126984
+".Bremerton-Silverdale-Port Orchard, WA Metro Area","275,832","276,629","277,876","277,650",281420
+".Bridgeport-Stamford-Danbury, CT Metro Area","943,159","950,726","953,585","961,501",972679
+".Brownsville-Harlingen, TX Metro Area","421,592","422,805","425,819","428,508",431874
+".Brunswick-St. Simons, GA Metro Area","113,520","113,952","114,588","116,178",117135
+".Buffalo-Cheektowaga, NY Metro Area","1,164,486","1,164,777","1,159,211","1,158,070",1160172
+".Burlington, NC Metro Area","171,620","173,642","176,544","179,617",183040
+".Burlington-South Burlington, VT Metro Area","225,743","227,246","228,290","228,503",229445
+".Canton-Massillon, OH Metro Area","401,254","400,563","399,685","399,806",400551
+".Cape Coral-Fort Myers, FL Metro Area","765,566","791,013","826,567","844,226",860959
+".Cape Girardeau, MO-IL Metro Area","97,551","97,754","98,309","98,369",98862
+".Carson City, NV Metro Area","58,682","58,770","58,094","58,226",58148
+".Casper, WY Metro Area","80,300","79,642","79,565","79,968",80410
+".Cedar Rapids, IA Metro Area","276,637","276,051","275,663","276,088",278677
+".Chambersburg, PA Metro Area","155,951","156,589","157,017","158,054",159285
+".Champaign-Urbana, IL Metro Area","236,446","237,476","237,981","239,849",242453
+".Charleston, WV Metro Area","209,967","207,346","204,643","202,942",202091
+".Charleston-North Charleston, SC Metro Area","803,525","814,941","831,230","851,698",869940
+".Charlotte-Concord-Gastonia, NC-SC Metro Area","2,668,364","2,706,843","2,761,265","2,822,194",2883370
+".Charlottesville, VA Metro Area","221,635","223,302","224,000","225,400",227336
+".Chattanooga, TN-GA Metro Area","564,632","568,177","575,746","582,452",588050
+".Cheyenne, WY Metro Area","100,733","100,843","100,860","101,079",101783
+".Chicago-Naperville-Elgin, IL-IN Metro Area","9,439,531","9,362,043","9,310,017","9,337,814",9408576
+"..Chicago-Naperville-Schaumburg, IL Metro Division","7,257,997","7,176,259","7,122,433","7,142,107",7198136
+"..Elgin, IL Metro Division","749,122","752,171","753,241","758,131",765503
+"..Lake County, IL Metro Division","713,426","712,733","712,143","714,207",718604
+"..Lake County-Porter County-Jasper County, IN Metro Division","718,986","720,880","722,200","723,369",726333
+".Chico, CA Metro Area","210,222","206,351","207,384","207,354",208334
+".Cincinnati, OH-KY-IN Metro Area","2,252,077","2,252,800","2,263,213","2,282,624",2302815
+".Clarksville, TN-KY Metro Area","321,847","328,962","335,804","340,249",345955
+".Cleveland, OH Metro Area","2,184,232","2,170,886","2,164,363","2,166,272",2171877
+".Cleveland, TN Metro Area","126,398","127,488","128,613","130,198",132120
+".Coeur d'Alene, ID Metro Area","172,791","180,089","183,540","185,237",188323
+".College Station-Bryan, TX Metro Area","268,965","272,697","278,389","284,160",287462
+".Colorado Springs, CO Metro Area","758,549","763,762","767,534","771,645",777634
+".Columbia, MO Metro Area","210,854","212,958","214,653","217,180",219426
+".Columbia, SC Metro Area","830,179","837,900","848,473","859,158",870193
+".Columbus, GA-AL Metro Area","329,195","326,487","324,118","323,936",324343
+".Columbus, IN Metro Area","82,215","82,732","83,746","84,248",84741
+".Columbus, OH Metro Area","2,142,023","2,147,585","2,168,930","2,195,029",2225377
+".Corpus Christi, TX Metro Area","446,387","447,850","446,869","448,766",450187
+".Corvallis, OR Metro Area","93,615","93,031","97,406","98,566",98899
+".Crestview-Fort Walton Beach-Destin, FL Metro Area","287,988","293,422","300,215","305,962",310149
+".Dallas-Fort Worth-Arlington, TX Metro Area","7,667,594","7,776,611","7,973,603","8,166,110",8344032
+"..Dallas-Plano-Irving, TX Metro Division","5,151,851","5,229,766","5,375,360","5,513,383",5641795
+"..Fort Worth-Arlington-Grapevine, TX Metro Division","2,515,743","2,546,845","2,598,243","2,652,727",2702237
+".Dalton, GA Metro Area","142,806","142,705","143,684","145,219",146386
+".Daphne-Fairhope-Foley, AL Metro Area","233,244","239,411","246,577","254,107",261608
+".Davenport-Moline-Rock Island, IA-IL Metro Area","383,787","381,705","379,876","380,346",381801
+".Dayton-Kettering-Beavercreek, OH Metro Area","814,231","813,905","813,980","816,546",821740
+".Decatur, AL Metro Area","156,404","156,322","157,400","158,960",159651
+".Decatur, IL Metro Area","103,764","102,619","101,369","100,754",100737
+".Deltona-Daytona Beach-Ormond Beach, FL Metro Area","671,784","687,477","707,455","724,514",739516
+".Denver-Aurora-Centennial, CO Metro Area","2,970,243","2,978,410","2,991,705","3,020,750",3052498
+".Des Moines-West Des Moines, IA Metro Area","711,239","720,861","729,453","740,131",753913
+".Detroit-Warren-Dearborn, MI Metro Area","4,385,445","4,370,015","4,358,510","4,369,590",4400578
+"..Detroit-Dearborn-Livonia, MI Metro Division","1,789,655","1,775,196","1,763,011","1,762,371",1771063
+"..Warren-Troy-Farmington Hills, MI Metro Division","2,595,790","2,594,819","2,595,499","2,607,219",2629515
+".Dothan, AL Metro Area","151,174","151,456","152,488","153,480",154766
+".Dover, DE Metro Area","182,317","185,069","187,819","190,123",192690
+".Dubuque, IA Metro Area","99,310","98,863","98,748","98,988",99242
+".Duluth, MN-WI Metro Area","280,618","279,990","280,337","281,587",281815
+".Durham-Chapel Hill, NC Metro Area","582,086","592,921","601,788","611,301",620522
+".Eagle Pass, TX Metro Area","57,873","57,690","57,813","58,203",58829
+".Eau Claire, WI Metro Area","172,223","172,580","173,610","175,007",176153
+".El Centro, CA Metro Area","179,730","179,206","179,767","180,585",181724
+".Elizabethtown, KY Metro Area","125,717","126,905","126,941","127,724",127954
+".Elkhart-Goshen, IN Metro Area","207,009","207,093","207,161","206,963",207436
+".Elmira, NY Metro Area","83,677","83,064","81,598","81,279",81115
+".El Paso, TX Metro Area","869,877","870,978","872,344","878,319",879392
+".Enid, OK Metro Area","62,701","61,977","61,990","62,055",62007
+".Erie, PA Metro Area","270,739","269,455","269,112","268,203",267750
+".Eugene-Springfield, OR Metro Area","384,221","386,082","386,187","382,151",382396
+".Evansville, IN Metro Area","269,524","270,018","270,133","271,002",271793
+".Fairbanks-College, AK Metro Area","95,349","95,553","95,749","95,700",94951
+".Fargo, ND-MN Metro Area","250,256","255,004","259,659","264,582",267793
+".Farmington, NM Metro Area","121,387","121,019","120,580","120,907",120817
+".Fayetteville, NC Metro Area","389,444","392,820","392,827","392,998",393812
+".Fayetteville-Springdale-Rogers, AR Metro Area","549,960","562,793","578,367","591,895",605615
+".Flagstaff, AZ Metro Area","145,190","142,927","144,326","144,934",145161
+".Flint, MI Metro Area","405,793","404,713","402,031","401,711",402279
+".Florence, SC Metro Area","199,656","199,132","199,294","199,822",200474
+".Florence-Muscle Shoals, AL Metro Area","151,336","152,461","153,926","155,249",156287
+".Fond du Lac, WI Metro Area","104,156","104,117","104,010","104,135",104269
+".Fort Collins-Loveland, CO Metro Area","359,932","362,785","368,017","371,530",374574
+".Fort Smith, AR-OK Metro Area","227,222","228,097","230,066","231,261",232848
+".Fort Wayne, IN Metro Area","448,623","451,866","455,058","458,553",462978
+".Fresno, CA Metro Area","1,166,047","1,171,898","1,177,521","1,183,301",1189557
+".Gadsden, AL Metro Area","103,437","102,887","102,821","103,174",103207
+".Gainesville, FL Metro Area","340,715","344,198","349,559","355,362",359780
+".Gainesville, GA Metro Area","203,409","206,998","213,126","218,248",221745
+".Gettysburg, PA Metro Area","103,802","105,696","106,017","107,147",107914
+".Glens Falls, NY Metro Area","126,714","126,605","126,212","125,540",125127
+".Goldsboro, NC Metro Area","117,772","117,395","118,185","119,570",120338
+".Grand Forks, ND-MN Metro Area","104,213","103,240","102,863","103,636",104184
+".Grand Island, NE Metro Area","76,922","76,276","76,522","76,968",77278
+".Grand Junction, CO Metro Area","156,011","157,458","158,585","159,690",161260
+".Grand Rapids-Wyoming-Kentwood, MI Metro Area","1,151,580","1,154,728","1,158,524","1,167,100",1178826
+".Grants Pass, OR Metro Area","88,228","88,599","87,786","88,001",88276
+".Great Falls, MT Metro Area","84,411","84,565","84,908","84,625",84523
+".Greeley, CO Metro Area","331,467","339,942","350,610","360,216",369745
+".Green Bay, WI Metro Area","328,606","328,970","330,902","332,548",334697
+".Greensboro-High Point, NC Metro Area","774,382","778,420","785,413","793,159",800722
+".Greenville, NC Metro Area","173,643","175,491","177,090","178,956",180783
+".Greenville-Anderson-Greer, SC Metro Area","930,775","941,600","961,030","979,608",996680
+".Gulfport-Biloxi, MS Metro Area","416,672","418,748","421,071","422,724",426793
+".Hagerstown-Martinsburg, MD-WV Metro Area","294,463","298,615","302,325","306,547",311295
+".Hammond, LA Metro Area","133,642","135,487","136,734","137,999",139823
+".Hanford-Corcoran, CA Metro Area","152,797","152,724","152,776","153,281",154913
+".Harrisburg-Carlisle, PA Metro Area","592,809","599,797","604,003","608,806",615361
+".Harrisonburg, VA Metro Area","135,484","136,032","136,597","138,008",138838
+".Hartford-West Hartford-East Hartford, CT Metro Area","1,137,369","1,147,394","1,151,750","1,160,000",1169048
+".Hattiesburg, MS Metro Area","154,064","154,923","155,535","156,072",156575
+".Helena, MT Metro Area","90,184","92,316","94,332","95,961",96735
+".Hickory-Lenoir-Morganton, NC Metro Area","365,131","365,795","367,514","370,108",373031
+".Hilton Head Island-Bluffton-Port Royal, SC Metro Area","216,977","222,380","227,920","232,603",237393
+".Hinesville, GA Metro Area","81,603","83,876","86,440","87,886",89046
+".Homosassa Springs, FL Metro Area","154,569","158,193","162,586","166,836",170174
+".Hot Springs, AR Metro Area","100,266","100,306","99,942","99,759",99902
+".Houma-Bayou Cane-Thibodaux, LA Metro Area","206,859","206,580","200,359","199,182",199206
+".Houston-Pasadena-The Woodlands, TX Metro Area","7,169,728","7,246,956","7,403,068","7,598,011",7796182
+".Huntington-Ashland, WV-KY-OH Metro Area","375,706","372,890","369,936","368,194",366920
+".Huntsville, AL Metro Area","494,736","503,948","515,081","528,694",542297
+".Idaho Falls, ID Metro Area","158,401","162,945","165,747","168,481",171233
+".Indianapolis-Carmel-Greenwood, IN Metro Area","2,092,864","2,107,860","2,126,541","2,148,172",2174833
+".Iowa City, IA Metro Area","175,593","177,573","179,356","180,756",182711
+".Ithaca, NY Metro Area","99,778","105,974","105,827","105,505",105602
+".Jackson, MI Metro Area","160,223","160,181","159,828","159,835",160233
+".Jackson, MS Metro Area","618,883","612,538","609,791","609,217",606178
+".Jackson, TN Metro Area","180,571","180,514","181,580","182,255",183680
+".Jacksonville, FL Metro Area","1,613,045","1,641,662","1,681,346","1,723,198",1760548
+".Jacksonville, NC Metro Area","205,111","203,563","206,718","211,184",212954
+".Janesville-Beloit, WI Metro Area","163,761","164,128","163,959","164,443",165461
+".Jefferson City, MO Metro Area","149,441","149,981","150,377","150,860",151523
+".Johnson City, TN Metro Area","207,484","207,185","210,476","213,552",214948
+".Johnstown, PA Metro Area","133,198","132,240","131,432","130,713",130108
+".Jonesboro, AR Metro Area","134,578","134,346","135,262","136,618",138152
+".Joplin, MO-KS Metro Area","200,896","201,957","203,119","205,025",207131
+".Kahului-Wailuku, HI Metro Area","164,882","164,896","164,560","164,835",163769
+".Kalamazoo-Portage, MI Metro Area","261,814","260,566","261,417","263,297",264780
+".Kankakee, IL Metro Area","107,403","106,757","106,221","106,386",106410
+".Kansas City, MO-KS Metro Area","2,195,288","2,203,618","2,209,457","2,228,762",2253579
+".Kennewick-Richland, WA Metro Area","304,578","308,734","311,299","314,999",319428
+".Kenosha, WI Metro Area","169,202","168,446","167,920","167,867",168754
+".Killeen-Temple, TX Metro Area","477,233","487,238","494,841","503,004",509487
+".Kingsport-Bristol, TN-VA Metro Area","307,757","308,740","311,033","312,802",313876
+".Kingston, NY Metro Area","181,277","183,487","182,357","182,906",182977
+".Kiryas Joel-Poughkeepsie-Newburgh, NY Metro Area","696,910","704,030","704,863","706,651",711730
+".Knoxville, TN Metro Area","906,083","916,613","933,626","947,279",957608
+".Kokomo, IN Metro Area","83,587","83,653","83,574","83,857",84082
+".La Crosse-Onalaska, WI-MN Metro Area","170,476","169,090","170,184","170,437",170763
+".Lafayette, LA Metro Area","408,227","410,593","413,175","415,438",419704
+".Lafayette-West Lafayette, IN Metro Area","223,854","225,078","227,077","228,311",229701
+".Lake Charles, LA Metro Area","254,329","242,423","239,542","240,867",242975
+".Lake Havasu City-Kingman, AZ Metro Area","214,173","217,186","220,947","223,801",226479
+".Lakeland-Winter Haven, FL Metro Area","730,179","755,712","790,530","824,172",852878
+".Lancaster, PA Metro Area","552,834","556,364","556,991","560,174",563293
+".Lansing-East Lansing, MI Metro Area","473,377","460,015","473,375","476,605",479971
+".Laredo, TX Metro Area","267,368","267,465","268,276","270,538",272823
+".Las Cruces, NM Metro Area","220,069","221,756","223,604","226,534",229366
+".Las Vegas-Henderson-North Las Vegas, NV Metro Area","2,275,970","2,296,651","2,321,961","2,354,285",2398871
+".Lawrence, KS Metro Area","118,787","119,503","120,053","121,179",121989
+".Lawton, OK Metro Area","126,681","127,769","127,863","127,338",126899
+".Lebanon, PA Metro Area","143,292","143,772","144,003","144,546",145319
+".Lewiston, ID-WA Metro Area","64,476","64,987","65,500","65,488",65370
+".Lewiston-Auburn, ME Metro Area","111,178","112,733","113,454","114,477",115272
+".Lexington-Fayette, KY Metro Area","517,420","516,646","519,557","525,814",533366
+".Lexington Park, MD Metro Area","206,927","208,923","209,653","210,307",211382
+".Lima, OH Metro Area","102,137","101,800","101,086","100,851",100866
+".Lincoln, NE Metro Area","340,781","340,962","342,875","346,440",350626
+".Little Rock-North Little Rock-Conway, AR Metro Area","749,020","751,803","758,380","764,683",769258
+".Logan, UT-ID Metro Area","147,912","152,143","155,622","158,709",161125
+".Longview, TX Metro Area","286,417","288,280","290,804","294,231",295490
+".Longview-Kelso, WA Metro Area","111,021","111,701","112,058","113,040",113982
+".Los Angeles-Long Beach-Anaheim, CA Metro Area","13,182,895","12,968,590","12,906,936","12,886,400",12927614
+"..Anaheim-Santa Ana-Irvine, CA Metro Division","3,186,261","3,159,351","3,158,489","3,154,563",3170435
+"..Los Angeles-Long Beach-Glendale, CA Metro Division","9,996,634","9,809,239","9,748,447","9,731,837",9757179
+".Louisville/Jefferson County, KY-IN Metro Area","1,363,012","1,361,854","1,365,960","1,377,729",1394234
+".Lubbock, TX Metro Area","352,164","355,410","357,390","361,721",367109
+".Lynchburg, VA Metro Area","261,655","262,537","263,320","265,045",266432
+".Macon-Bibb County, GA Metro Area","233,609","233,183","233,969","236,333",237617
+".Madison, WI Metro Area","681,891","681,112","690,029","698,503",707606
+".Manchester-Nashua, NH Metro Area","422,929","424,475","426,307","427,719",430462
+".Manhattan, KS Metro Area","134,198","133,885","133,474","133,371",134892
+".Mankato, MN Metro Area","103,694","103,743","104,062","104,716",105193
+".Mansfield, OH Metro Area","124,988","125,382","125,268","125,003",124853
+".McAllen-Edinburg-Mission, TX Metro Area","872,892","879,929","889,799","902,443",914820
+".Medford, OR Metro Area","223,755","224,649","222,153","221,338",221331
+".Memphis, TN-MS-AR Metro Area","1,346,224","1,342,425","1,341,175","1,340,448",1339345
+".Merced, CA Metro Area","282,963","284,834","292,034","294,402",296774
+".Miami-Fort Lauderdale-West Palm Beach, FL Metro Area","6,133,502","6,109,257","6,211,194","6,334,517",6457988
+"..Fort Lauderdale-Pompano Beach-Sunrise, FL Metro Division","1,943,497","1,935,655","1,966,237","2,002,786",2037472
+"..Miami-Miami Beach-Kendall, FL Metro Division","2,695,729","2,669,925","2,713,415","2,774,250",2838461
+"..West Palm Beach-Boca Raton-Delray Beach, FL Metro Division","1,494,276","1,503,677","1,531,542","1,557,481",1582055
+".Michigan City-La Porte, IN Metro Area","112,287","112,552","111,810","111,586",111348
+".Midland, MI Metro Area","83,493","83,504","83,761","84,007",84022
+".Midland, TX Metro Area","175,986","173,853","177,931","183,557",188766
+".Milwaukee-Waukesha, WI Metro Area","1,574,565","1,563,631","1,564,152","1,567,889",1574452
+".Minneapolis-St. Paul-Bloomington, MN-WI Metro Area","3,694,260","3,696,733","3,696,911","3,722,476",3757952
+".Minot, ND Metro Area","77,520","76,761","76,306","75,896",75938
+".Missoula, MT Metro Area","122,921","124,716","125,968","126,807",127741
+".Mobile, AL Metro Area","414,409","413,164","411,291","411,745",412339
+".Modesto, CA Metro Area","553,710","552,939","552,410","553,921",556972
+".Monroe, LA Metro Area","226,704","224,783","222,766","222,197",221921
+".Monroe, MI Metro Area","154,909","155,569","155,412","155,590",156045
+".Montgomery, AL Metro Area","385,427","384,672","385,634","386,500",387885
+".Morgantown, WV Metro Area","140,103","140,846","141,117","141,799",142752
+".Morristown, TN Metro Area","119,459","119,911","122,002","124,363",126932
+".Mount Vernon-Anacortes, WA Metro Area","129,901","131,018","131,229","131,754",132736
+".Muncie, IN Metro Area","111,757","112,059","112,183","112,448",112951
+".Muskegon-Norton Shores, MI Metro Area","174,794","175,581","175,526","176,476",177428
+".Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area","353,779","366,164","383,372","398,374",413391
+".Napa, CA Metro Area","137,465","136,219","134,492","133,444",132727
+".Naples-Marco Island, FL Metro Area","377,331","387,316","400,510","410,065",416233
+".Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area","2,021,825","2,033,685","2,077,922","2,113,986",2150553
+".New Haven, CT Metro Area","564,526","568,961","569,866","572,919",576718
+".New Orleans-Metairie, LA Metro Area","1,005,431","993,781","975,662","967,205",966230
+".New York-Newark-Jersey City, NY-NJ Metro Area","19,991,108","19,714,596","19,619,844","19,726,871",19940274
+"..Lakewood-New Brunswick, NJ Metro Division","2,487,580","2,505,596","2,515,940","2,533,600",2561540
+"..Nassau County-Suffolk County, NY Metro Division","2,912,759","2,926,111","2,916,390","2,915,081",2928347
+"..Newark, NJ Metro Division","2,214,884","2,213,469","2,216,638","2,241,055",2277892
+"..New York-Jersey City-White Plains, NY-NJ Metro Division","12,375,885","12,069,420","11,970,876","12,037,135",12172495
+".Niles, MI Metro Area","154,426","153,598","153,064","152,651",152703
+".North Port-Bradenton-Sarasota, FL Metro Area","837,900","862,535","894,767","916,536",934956
+".Norwich-New London-Willimantic, CT Metro Area","278,379","278,855","279,398","280,622",282602
+".Ocala, FL Metro Area","377,464","385,024","396,661","412,338",428905
+".Odessa, TX Metro Area","165,511","160,809","161,480","165,450",170022
+".Ogden, UT Metro Area","639,155","646,810","653,107","660,120",667681
+".Oklahoma City, OK Metro Area","1,430,032","1,444,078","1,462,926","1,481,480",1497821
+".Olympia-Lacey-Tumwater, WA Metro Area","296,018","298,241","298,645","299,519",302912
+".Omaha, NE-IA Metro Area","969,176","972,875","978,390","988,866",1001010
+".Orlando-Kissimmee-Sanford, FL Metro Area","2,680,593","2,699,313","2,783,767","2,864,544",2940513
+".Oshkosh-Neenah, WI Metro Area","171,796","170,590","171,049","172,105",173307
+".Owensboro, KY Metro Area","112,531","112,208","112,485","113,003",113583
+".Oxnard-Thousand Oaks-Ventura, CA Metro Area","843,808","840,009","835,032","833,071",835427
+".Paducah, KY-IL Metro Area","103,454","102,938","102,507","102,446",102395
+".Palm Bay-Melbourne-Titusville, FL Metro Area","608,792","618,000","631,956","646,705",658447
+".Panama City-Panama City Beach, FL Metro Area","199,857","204,404","211,158","217,967",226221
+".Parkersburg-Vienna, WV Metro Area","89,333","88,887","88,459","87,941",87681
+".Pensacola-Ferry Pass-Brent, FL Metro Area","511,634","517,219","522,590","531,603",538928
+".Peoria, IL Metro Area","368,313","365,663","363,597","363,874",364565
+".Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area","6,242,286","6,254,431","6,252,024","6,280,902",6330422
+"..Camden, NJ Metro Division","1,287,420","1,293,359","1,299,041","1,308,977",1321286
+"..Montgomery County-Bucks County-Chester County, PA Metro Division","2,037,950","2,052,777","2,058,967","2,074,608",2090066
+"..Philadelphia, PA Metro Division","2,177,311","2,167,044","2,147,594","2,143,887",2158798
+"..Wilmington, DE-MD-NJ Metro Division","739,605","741,251","746,422","753,430",760272
+".Phoenix-Mesa-Chandler, AZ Metro Area","4,875,628","4,949,233","5,029,933","5,102,020",5186958
+".Pinehurst-Southern Pines, NC Metro Area","100,293","103,049","105,548","107,072",108417
+".Pittsburgh, PA Metro Area","2,455,372","2,450,914","2,434,027","2,429,469",2429917
+".Pittsfield, MA Metro Area","129,812","130,199","129,551","128,863",128726
+".Pocatello, ID Metro Area","87,281","88,523","89,871","90,585",91010
+".Portland-South Portland, ME Metro Area","552,599","558,373","563,795","567,916",571534
+".Portland-Vancouver-Hillsboro, OR-WA Metro Area","2,517,742","2,517,316","2,510,302","2,521,668",2537904
+".Port St. Lucie, FL Metro Area","490,130","504,225","522,261","540,427",556336
+".Prescott Valley-Prescott, AZ Metro Area","237,228","242,392","246,266","249,499",252013
+".Providence-Warwick, RI-MA Metro Area","1,673,306","1,676,975","1,680,699","1,688,482",1700901
+".Provo-Orem-Lehi, UT Metro Area","675,432","698,252","717,339","738,375",760531
+".Pueblo, CO Metro Area","168,352","169,354","169,485","169,723",169866
+".Punta Gorda, FL Metro Area","188,017","194,982","203,113","207,085",212122
+".Racine-Mount Pleasant, WI Metro Area","198,065","196,829","196,710","197,407",198651
+".Raleigh-Cary, NC Metro Area","1,417,148","1,451,314","1,483,195","1,522,844",1562009
+".Rapid City, SD Metro Area","147,818","150,849","153,972","155,882",156227
+".Reading, PA Metro Area","428,693","429,698","432,281","435,284",439117
+".Redding, CA Metro Area","182,190","182,243","180,972","180,656",181121
+".Reno, NV Metro Area","551,298","559,494","562,212","566,986",575110
+".Richmond, VA Metro Area","1,316,742","1,326,573","1,339,341","1,353,426",1370165
+".Riverside-San Bernardino-Ontario, CA Metro Area","4,608,189","4,646,102","4,675,657","4,704,354",4744214
+".Roanoke, VA Metro Area","315,242","314,758","314,295","314,887",315749
+".Rochester, MN Metro Area","226,573","227,556","228,307","229,429",230742
+".Rochester, NY Metro Area","1,062,975","1,061,174","1,055,881","1,054,815",1057218
+".Rockford, IL Metro Area","338,302","336,586","335,165","335,453",337103
+".Rocky Mount, NC Metro Area","143,939","143,566","144,403","145,742",147114
+".Rome, GA Metro Area","98,583","98,498","99,586","100,407",101390
+".Sacramento-Roseville-Folsom, CA Metro Area","2,401,696","2,409,061","2,423,591","2,434,464",2463127
+".Saginaw, MI Metro Area","189,883","189,533","188,425","187,769",187714
+".St. Cloud, MN Metro Area","199,846","200,760","202,126","203,677",205878
+".St. George, UT Metro Area","182,029","191,552","197,898","202,735",207943
+".St. Joseph, MO-KS Metro Area","121,638","120,801","119,759","118,739",119124
+".St. Louis, MO-IL Metro Area","2,819,885","2,813,562","2,803,371","2,805,507",2811927
+".Salem, OR Metro Area","434,308","437,264","439,374","440,164",443416
+".Salinas, CA Metro Area","440,506","439,245","436,427","435,637",436251
+".Salisbury, MD Metro Area","128,130","128,673","129,681","130,629",131570
+".Salt Lake City-Murray, UT Metro Area","1,260,379","1,263,290","1,272,236","1,282,681",1300762
+".San Angelo, TX Metro Area","121,713","120,778","120,550","120,897",121629
+".San Antonio-New Braunfels, TX Metro Area","2,568,935","2,605,783","2,660,228","2,715,709",2763006
+".San Diego-Chula Vista-Carlsbad, CA Metro Area","3,301,182","3,274,244","3,283,755","3,285,890",3298799
+".Sandusky, OH Metro Area","115,780","115,069","114,547","113,944",113533
+".San Francisco-Oakland-Fremont, CA Metro Area","4,745,673","4,621,751","4,599,793","4,609,445",4648486
+"..Oakland-Fremont-Berkeley, CA Metro Division","2,846,779","2,807,669","2,795,989","2,800,321",2821667
+"..San Francisco-San Mateo-Redwood City, CA Metro Division","1,637,553","1,554,828","1,546,661","1,553,418",1570419
+"..San Rafael, CA Metro Division","261,341","259,254","257,143","255,706",256400
+".San Jose-Sunnyvale-Santa Clara, CA Metro Area","1,989,335","1,945,023","1,951,368","1,965,478",1995484
+".San Luis Obispo-Paso Robles, CA Metro Area","281,924","279,468","282,535","282,007",281843
+".Santa Cruz-Watsonville, CA Metro Area","271,768","260,904","265,851","263,699",262406
+".Santa Fe, NM Metro Area","155,056","155,429","155,768","156,507",157765
+".Santa Maria-Santa Barbara, CA Metro Area","448,083","437,117","445,286","443,521",444500
+".Santa Rosa-Petaluma, CA Metro Area","488,501","484,561","483,398","483,366",485375
+".Savannah, GA Metro Area","405,312","409,485","418,858","426,182",431589
+".Scranton--Wilkes-Barre, PA Metro Area","566,802","568,157","568,723","571,249",574009
+".Seattle-Tacoma-Bellevue, WA Metro Area","4,027,979","4,017,215","4,040,080","4,078,828",4145494
+"..Everett, WA Metro Division","829,975","836,235","841,529","850,297",864113
+"..Seattle-Bellevue-Kent, WA Metro Division","2,274,349","2,253,242","2,271,238","2,296,813",2340211
+"..Tacoma-Lakewood, WA Metro Division","923,655","927,738","927,313","931,718",941170
+".Sebastian-Vero Beach-West Vero Corridor, FL Metro Area","160,452","163,903","167,698","170,487",172139
+".Sebring, FL Metro Area","101,340","103,286","105,954","108,151",109778
+".Sheboygan, WI Metro Area","118,058","117,710","117,860","117,995",118331
+".Sherman-Denison, TX Metro Area","136,152","139,652","143,292","147,056",150532
+".Shreveport-Bossier City, LA Metro Area","392,522","388,986","385,316","384,001",383269
+".Sierra Vista-Douglas, AZ Metro Area","125,533","126,147","125,497","124,881",125773
+".Sioux City, IA-NE-SD Metro Area","144,365","143,963","144,010","145,070",145994
+".Sioux Falls, SD-MN Metro Area","287,413","292,064","299,092","304,068",308266
+".Slidell-Mandeville-Covington, LA Metro Area","265,007","270,188","273,494","275,801",277615
+".South Bend-Mishawaka, IN-MI Metro Area","324,241","323,838","324,205","325,224",325294
+".Spartanburg, SC Metro Area","356,587","362,480","373,242","385,441",395934
+".Spokane-Spokane Valley, WA Metro Area","587,787","593,160","598,108","601,596",604962
+".Springfield, IL Metro Area","208,495","207,638","206,559","206,212",206308
+".Springfield, MA Metro Area","463,714","462,640","461,440","462,128",464151
+".Springfield, MO Metro Area","476,382","481,764","487,114","491,691",496975
+".Springfield, OH Metro Area","135,894","135,490","134,686","134,735",134985
+".State College, PA Metro Area","157,987","158,008","157,992","159,087",159805
+".Staunton-Stuarts Draft, VA Metro Area","125,675","126,083","126,603","127,269",128481
+".Stockton-Lodi, CA Metro Area","780,676","788,096","795,880","805,909",816108
+".Sumter, SC Metro Area","105,493","104,879","104,068","104,410",104776
+".Syracuse, NY Metro Area","659,619","657,371","655,604","654,267",655189
+".Tallahassee, FL Metro Area","385,674","388,343","391,819","395,143",397675
+".Tampa-St. Petersburg-Clearwater, FL Metro Area","3,187,970","3,230,564","3,306,285","3,374,078",3424560
+"..St. Petersburg-Clearwater-Largo, FL Metro Division","959,839","959,703","964,693","967,301",965870
+"..Tampa, FL Metro Division","2,228,131","2,270,861","2,341,592","2,406,777",2458690
+".Terre Haute, IN Metro Area","168,779","168,742","168,543","168,657",168874
+".Texarkana, TX-AR Metro Area","147,470","146,687","145,984","145,760",145576
+".Toledo, OH Metro Area","605,777","602,375","601,058","601,004",601396
+".Topeka, KS Metro Area","232,904","232,847","231,775","232,166",232648
+".Traverse City, MI Metro Area","153,657","154,849","155,794","156,309",156634
+".Trenton-Princeton, NJ Metro Area","386,492","382,231","382,165","386,296",392138
+".Tucson, AZ Metro Area","1,045,227","1,049,083","1,059,412","1,068,579",1080149
+".Tulsa, OK Metro Area","1,017,411","1,025,983","1,036,199","1,048,266",1059803
+".Tuscaloosa, AL Metro Area","274,085","277,612","278,800","280,175",281963
+".Twin Falls, ID Metro Area","114,642","117,150","119,201","120,978",122565
+".Tyler, TX Metro Area","234,200","237,206","242,249","245,955",249091
+".Urban Honolulu, HI Metro Area","1,012,407","1,004,349","995,652","994,576",998747
+".Utica-Rome, NY Metro Area","291,134","289,680","288,078","287,581",287932
+".Valdosta, GA Metro Area","148,353","148,991","149,748","151,266",152588
+".Vallejo, CA Metro Area","452,887","450,819","449,724","451,060",455101
+".Victoria, TX Metro Area","98,338","98,051","98,272","98,939",99170
+".Vineland, NJ Metro Area","153,724","152,100","151,686","153,338",155678
+".Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area","1,781,773","1,785,817","1,785,895","1,788,412",1794278
+".Visalia, CA Metro Area","473,944","476,939","478,288","480,747",483546
+".Waco, TX Metro Area","296,403","299,356","301,913","305,430",307123
+".Walla Walla, WA Metro Area","62,629","62,232","62,085","61,789",62068
+".Warner Robins, GA Metro Area","192,400","195,499","198,275","200,762",204110
+".Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area","6,260,475","6,259,238","6,289,810","6,345,881",6436489
+"..Arlington-Alexandria-Reston, VA-WV Metro Division","3,123,825","3,127,804","3,139,652","3,166,205",3211542
+"..Frederick-Gaithersburg-Bethesda, MD Metro Division","1,333,643","1,336,753","1,349,448","1,363,551",1381590
+"..Washington, DC-MD Metro Division","1,803,007","1,794,681","1,800,710","1,816,125",1843357
+".Waterbury-Shelton, CT Metro Area","449,055","452,095","453,868","457,609",462220
+".Waterloo-Cedar Falls, IA Metro Area","168,403","168,082","167,720","168,895",170081
+".Watertown-Fort Drum, NY Metro Area","116,071","116,925","115,487","113,575",113140
+".Wausau, WI Metro Area","138,114","137,798","138,175","138,838",139091
+".Weirton-Steubenville, WV-OH Metro Area","116,713","115,785","114,290","113,745",113239
+".Wenatchee-East Wenatchee, WA Metro Area","122,339","123,701","124,179","125,449",127023
+".Wheeling, WV-OH Metro Area","139,127","137,930","136,690","135,718",135136
+".Wichita, KS Metro Area","648,545","648,580","649,846","654,920",661217
+".Wichita Falls, TX Metro Area","148,434","149,118","149,508","149,862",149869
+".Wildwood-The Villages, FL Metro Area","130,303","134,908","144,978","152,157",154693
+".Williamsport, PA Metro Area","114,130","113,576","113,223","113,282",113236
+".Wilmington, NC Metro Area","425,234","438,030","454,680","468,265",480522
+".Winchester, VA-WV Metro Area","142,995","145,448","146,222","147,564",149702
+".Winston-Salem, NC Metro Area","676,410","681,900","688,725","696,600",705187
+".Worcester, MA Metro Area","857,092","862,052","865,735","872,813",881248
+".Yakima, WA Metro Area","256,736","256,743","256,566","257,193",258523
+".York-Hanover, PA Metro Area","456,754","459,264","461,385","465,977",471240
+".Youngstown-Warren, OH Metro Area","429,699","428,153","426,820","426,342",426086
+".Yuba City, CA Metro Area","181,480","182,156","183,017","184,152",186014
+".Yuma, AZ Metro Area","205,665","207,743","209,538","215,448",220310
