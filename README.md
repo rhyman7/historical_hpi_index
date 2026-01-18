@@ -4,7 +4,7 @@
 
 # House Price Index Change 1991-2025
 
-At it's core the House Price Index Change 1991-2025 project tracks the change in the Housing Price Index (HPI) provided by the Federal Housing Finance Agency (FHFA) from 1991-2025. Although I am mainly focused on the metropolitan area of Louisville, KY, this can be used to review other metropolitan areas as well. 
+At it's core the House Price Index Change 1991-2025 project tracks the change in the Housing Price Index (HPI) provided by the Federal Housing Finance Agency (FHFA) from 1991-2025. Although I am mainly focused on the metropolitan area of Louisville, KY, this can be used to review other metropolitan areas as well. In the plainest terms HPI data for this set started with 1991. 100 = 0 and any icrease from 100 is a percent uptick. For example, Louisville started at 100 in 1991 by 1994 Louisville was at about 140 which represents a 40% increase in the HPI index which, in turn, correlates to traditional homes in Louisville costing 40% more. 
 
 ## Questions I Would Like to Answer
 1. What is the increase in HPI for Louisville, KY from 1991-2025?
