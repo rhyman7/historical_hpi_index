@@ -10,7 +10,7 @@ At it's core the House Price Index Change 1991-2025 project tracks the change in
 5. Is Louisville above or below the nation HPI in 2025?
 
 ## Visualization Example
-<img width="853" height="701" alt="output" src="https://github.com/user-attachments/assets/752d4146-4e38-487e-b6b7-a005ae7b5c57" />
+<img width="853" height="701" alt="louisville_compared_to_similar_cities" src="https://github.com/user-attachments/assets/a191b9c7-8ec8-44a3-aaee-27b3dd17adfb" />
 
 The visual above displays the HPI data for with cities with a population similar to Louisville(+- 100,000).
 All cities have see exponential increase in HPI starting in 2012 with the almost verticle trend
