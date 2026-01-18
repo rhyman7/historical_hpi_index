@@ -12,8 +12,9 @@ At it's core the House Price Index Change 1991-2025 project tracks the change in
 ## Visualization Example
 <img width="853" height="701" alt="output" src="https://github.com/user-attachments/assets/752d4146-4e38-487e-b6b7-a005ae7b5c57" />
 
-This visual displays the rise in HPI over Louisville and six other cities of a similar population (+-100,000). Salt Lake City Utah is a significant 
-outlier in this dataset having the highest HPI in the Unites States amongst the 100 largest metropolitan areas.
+The visual above displays the HPI data for with cities with a population similar to Louisville(+- 100,000).
+All cities have see exponential increase in HPI starting in 2012 with the almost verticle trend
+continuing up to the last year of data, 2025
 
 
 ## How to Use
